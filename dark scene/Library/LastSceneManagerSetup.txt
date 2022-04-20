@@ -1,0 +1,5 @@
+sceneSetups:
+- path: "Assets/Scenes/dark\u2014Peiwen Zuo.unity"
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
